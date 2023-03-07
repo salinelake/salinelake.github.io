@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Pinchen Xie"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/bio-photo.jpg"
   bio              : "I'm a Ph.D. student in the Applied Math program of Princeton University."
   location         : "Princeton"
   email            : "pinchenx@math.princeton.edu"
