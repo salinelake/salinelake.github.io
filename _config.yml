@@ -106,12 +106,12 @@ analytics:
 author:
   name             : "Pinchen Xie"
   avatar           : /assets/images/bio-photo.jpg
-#   bio              : |-
-#     Ph.D. student
+  bio              : |-
+    Ph.D. student
 
-#     Program in Applied and Computational Mathematics
+    Program in Applied and Computational Mathematics
     
-#     Princeton University
+    Princeton University
   location         : "Princeton, NJ"
   email            : "pinchenx@math.princeton.edu"
   links:
