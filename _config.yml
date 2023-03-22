@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Pinchen Xie"
-  avatar           : https://salinelake.github.io/assets/images/bio-photo.jpg
+  avatar           : /../assets/images/bio-photo.jpg
   bio              : |-
     Ph.D. student
 
