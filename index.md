@@ -7,13 +7,13 @@ I'm a graduate student in the [Program of Applied and Computational Mathematics]
 You can find the complete list of my publication at [Google Scholar](https://scholar.google.com/citations?user=WreiKioAAAAJ&hl=en), and my Curriculum Vitae at [About](/about/).
  
 
-The central goal of my work is to consistently bridge physical models at different scales. 
+The central goal of my work is to consistently bridge physical models at different scales. See [here](/research/) for details.
 
 {:refdef: style="text-align: center;"}
-![Multiscale](/assets/images/multiscale_2.png){: width="400" }
+![Multiscale](/assets/images/multiscale_2.png){: width="800" }
 {: refdef}
 
 This is similar to "the bull" at different stages of abstraction. 
 {:refdef: style="text-align: center;"}
-![Multiscale](/assets/images/bull.jpeg){: width="400" }
+![Multiscale](/assets/images/bull.jpeg){: width="300" }
 {: refdef}
