@@ -6,6 +6,8 @@ main:
      url: /about/
    - title: "Research"
      url: /research/
+   - title: "Softwares"
+     url: /software/
    - title: "Posts"
      url: /year-archive/
   # - title: "Sample Collections"
