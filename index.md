@@ -17,3 +17,7 @@ This is similar to "the bull" at different stages of abstraction.
 {:refdef: style="text-align: center;"}
 ![Multiscale](/assets/images/bull.jpeg){: width="300" }
 {: refdef}
+
+
+## News
+`Mar 2024` I give a talk on ab initio generalized langevin equation (AIGLE) in 2024 APS March Meeting at Minneapolis. 
