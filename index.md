@@ -3,13 +3,14 @@ layout: home
 author_profile: true
 ---
 
-I'm a graduate student in the [Program of Applied and Computational Mathematics](https://www.pacm.princeton.edu/) of Princeton University. You can find the complete list of my publication at [Google Scholar](https://scholar.google.com/citations?user=WreiKioAAAAJ&hl=en), and my Curriculum Vitae at [CV](/about/).
+I'm a graduate student in the [Program of Applied and Computational Mathematics](https://www.pacm.princeton.edu/) of Princeton University. I will join [Lawrence Berkeley Lab](https://cs.lbl.gov/) as an Alvarez fellow in Oct. 2024.
+You can find the complete list of my publication at [Google Scholar](https://scholar.google.com/citations?user=WreiKioAAAAJ&hl=en), and my Curriculum Vitae at [CV](/about/).
 
 #### Current Research interests
 ---------
 __*Multiscale modeling*__
 
-My main interest is developing methodology for data-driven bottom-up / ab initio multi-scale modeling. Meanwhile, I'm equally interested in the application of this approach to hard condensed matters (mainly weakly-correlated systems) and soft matters (polymer, proteins, ...). 
+My main interest is developing methodology for data-driven bottom-up / ab initio multi-scale modeling. I'm interested in applying such approaches to hard condensed matters (mainly weakly-correlated systems) and soft matters (polymer, proteins, ...). 
 
 The figure below is an overview of physical processes happening on different scales and the corresponding descriptive models. For example, for non-relativistic quantum systems, the dynamical model is the Schrodinger equation. 
 
