@@ -2,9 +2,10 @@
 permalink: /research/
 published: true
 ---
+# Research interests
 
 
-#### Current Research interests
+#### Current
 ---------
 __*Multiscale modeling*__
 
