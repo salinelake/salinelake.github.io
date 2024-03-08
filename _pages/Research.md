@@ -1,11 +1,11 @@
 ---
+title: "Research interests"
 permalink: /research/
 published: true
 ---
-# Research interests
 
 
-#### Current
+#### Current research interests
 ---------
 __*Multiscale modeling*__
 
