@@ -38,8 +38,7 @@ __Referee for__
 J. Chem. Theory Comput.; J. Phys. Chem.; Quantum Machine Intelligence
 
 __Conference and seminar organization__  
-<!-- `July 2023`  Tutor, Deep Modeling for Molecular Simulation workshop,  -->
-`July 2023`  Tutor, Deep Modeling for Molecular Simulation workshop, July 2023 
+`July 2023`  Tutor, Deep Modeling for Molecular Simulation workshop 
 `July 2022`  Tutor, [Deep Modeling for Molecular Simulation workshop](https://github.com/CSIprinceton/workshop-july-2022) (virtual)
 
 TEACHING and ADVISING 
@@ -65,7 +64,7 @@ Conference Presentations
  
 Seminar talks
 ---------
-`Jan 2024`  &nbsp;  CS Seminar, Lawrence Berkeley National Lab, 
+`Jan 2024`  &nbsp;  CS Seminar, Lawrence Berkeley National Lab
 `Mar 2023`  &nbsp;  Chemistry in Solution and at Interfaces Seminar, Princeton University   
 `Jan 2023`  &nbsp;  [Invited talk, DP Technology](https://www.bilibili.com/video/BV1GW4y1G7F8/?share_source=copy_web), Virtual   
 `Aug 2022`  &nbsp;  Invited talk, Samsung Semiconductor Advanced Materials Lab (AML), Boston      
