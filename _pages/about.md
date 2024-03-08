@@ -2,7 +2,10 @@
 permalink: /about/
 published: true
 ---
-  
+
+
+You can download my CV [here](/assets/cv_xie.pdf)
+ 
 
 Education
 ---------
