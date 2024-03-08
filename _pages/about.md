@@ -6,9 +6,6 @@ published: true
 
 Education
 ---------
- 
-
-
 
 `2018-2024 (expected)`  &nbsp;     
 __PhD, Applied Mathematics, Princeton University__     
@@ -38,9 +35,11 @@ Awards
 PROFESSIONAL SERVICE
 ---------
 __Referee for__  
-Quantum Machine Intelligence  
+J. Chem. Theory Comput.; J. Phys. Chem.; Quantum Machine Intelligence
+
 __Conference and seminar organization__  
 <!-- `July 2023`  Tutor, Deep Modeling for Molecular Simulation workshop,  -->
+`July 2023`  Tutor, Deep Modeling for Molecular Simulation workshop, July 2023 
 `July 2022`  Tutor, [Deep Modeling for Molecular Simulation workshop](https://github.com/CSIprinceton/workshop-july-2022) (virtual)
 
 TEACHING and ADVISING 
@@ -55,19 +54,23 @@ __Graduate Mentor__ - Princeton University
 
 Conference Presentations
 ---------
+`March 2024` &nbsp; APS March Meeting, Minneapolis
+`Feb 2024`  &nbsp; 35th Fundamental Physics of Ferroelectrics Workshop, Washington, D.C.
+`June 2023` &nbsp;   International Workshop on Nuclear Quantum Effects, NYU, New York
 `Mar 2023`  &nbsp;   APS March Meeting, Chicago  
 `Mar 2022`  &nbsp;   APS March Meeting, Chicago  
 `Feb 2022`  &nbsp;   33rd Fundamental Physics of Ferroelectrics Workshop, Washington, D.C.   
 `June 2017` &nbsp;   U21 Undergraduate Research Conference, University of Edinburgh, Edinburgh  
-`June 2016` Yangtze River Delta Conference on Operations Research and Cybernetics, Shanghai   
+`June 2016` &nbsp;   Yangtze River Delta Conference on Operations Research and Cybernetics, Shanghai   
  
 Seminar talks
 ---------
+`Jan 2024`  &nbsp;  CS Seminar, Lawrence Berkeley National Lab, 
 `Mar 2023`  &nbsp;  Chemistry in Solution and at Interfaces Seminar, Princeton University   
-`Jan 2023`  &nbsp;  [Invited talk, DP Technology](https://www.bilibili.com/video/BV1GW4y1G7F8/?share_source=copy_web), Virtual, in Chinese    
+`Jan 2023`  &nbsp;  [Invited talk, DP Technology](https://www.bilibili.com/video/BV1GW4y1G7F8/?share_source=copy_web), Virtual   
 `Aug 2022`  &nbsp;  Invited talk, Samsung Semiconductor Advanced Materials Lab (AML), Boston      
 `Feb 2022`  &nbsp;  PACM Colloquium, Princeton University   
 `Feb 2022`  &nbsp;  Chemistry in Solution and at Interfaces Seminar, Princeton University    
  
 ---------
-Last updated: May 2013 
+Last updated: March 2024
