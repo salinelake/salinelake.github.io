@@ -20,6 +20,6 @@ This is similar to "the bull" at different stages of abstraction.
 
 
 ## News
-`Mar 2024` &nbsp; Our paper ``Ab Initio generalized Langevin equation'' is accepted by PNAS. 
+`Mar 2024` &nbsp; Our paper ``Ab Initio generalized Langevin equation'' is published by PNAS ([link](https://www.pnas.org/doi/10.1073/pnas.2308668121)). 
 
 `Mar 2024` &nbsp; I give a talk on ab initio generalized langevin equation (AIGLE) in 2024 APS March Meeting at Minneapolis. 
