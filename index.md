@@ -5,8 +5,8 @@ author_profile: true
 
 
 
-I'm a graduate student in the [Program of Applied and Computational Mathematics](https://www.pacm.princeton.edu/) of Princeton University. I will join [Lawrence Berkeley Lab](https://cs.lbl.gov/) as an Alvarez fellow in Oct. 2024.
-You can find the complete list of my publication at [Google Scholar](https://scholar.google.com/citations?user=WreiKioAAAAJ&hl=en), and my Curriculum Vitae at [About](/about/).
+I'm a graduate student in the [Program of Applied and Computational Mathematics](https://www.pacm.princeton.edu/) at Princeton University. I will join [Lawrence Berkeley Lab](https://cs.lbl.gov/) as an Alvarez fellow in Oct. 2024.
+You can find the complete list of my publications at [Google Scholar](https://scholar.google.com/citations?user=WreiKioAAAAJ&hl=en), and my Curriculum Vitae [here](/about/).
  
 
 ## Research Summary
@@ -26,6 +26,8 @@ See [here](/research/) for details.
 
 
 ## News
+`Apr 2024` &nbsp; Our paper ``Deuteration removes quantum dipolar defects from KDP crystals'' appears on Arxiv! ([link](https://arxiv.org/abs/2404.08125)). State-of-the-art path-integral MD simulation brings new stories of materials that have been intensively studied but never fully understood.
+
 `Mar 2024` &nbsp; Our paper ``Ab Initio generalized Langevin equation'' is published by PNAS ([link](https://www.pnas.org/doi/10.1073/pnas.2308668121)). 
 
 `Mar 2024` &nbsp; I give a talk on ab initio generalized langevin equation (AIGLE) in 2024 APS March Meeting at Minneapolis. 
