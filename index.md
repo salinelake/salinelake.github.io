@@ -5,7 +5,7 @@ author_profile: true
 
 
 
-I'm a graduate student in the [Program of Applied and Computational Mathematics](https://www.pacm.princeton.edu/) at Princeton University. I will join [Lawrence Berkeley Lab](https://cs.lbl.gov/) as an Alvarez fellow in Oct. 2024.
+I'm an [Alvarez Postdoctoral Fellow](https://cs.lbl.gov/careers/computing-fellowships/alvarez-fellowship/) at Lawrence Berkeley National Laboratory. I received my PhD in Applied Math from the [Program of Applied and Computational Mathematics](https://www.pacm.princeton.edu/) at Princeton University, where I was advised by Roberto Car and Weinan E. 
 You can find the complete list of my publications at [Google Scholar](https://scholar.google.com/citations?user=WreiKioAAAAJ&hl=en), and my Curriculum Vitae [here](/about/).
  
 
