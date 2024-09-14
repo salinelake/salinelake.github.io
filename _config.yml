@@ -107,17 +107,18 @@ author:
   name             : "Pinchen Xie"
   avatar           : /assets/images/bio-photo.jpg
   bio              : |-
-    Ph.D. student
-
-    Program in Applied and Computational Mathematics
+    (Any pronouns)
     
-    Princeton University
-  location         : "Princeton, NJ"
-  email            : "pinchenx@math.princeton.edu"
+    Postdoc
+    Applied Mathematics & Computational Research Division
+    Lawrence Berkeley National Lab
+    
+  location         : "Berkeley, CA"
+  email            : "pinchenxie@lbl.gov"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:pinchenx@math.princeton.edu"
+      # url: "mailto:pinchenxie@lbl.gov"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
