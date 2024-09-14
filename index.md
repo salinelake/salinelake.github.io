@@ -27,6 +27,7 @@ See [here](/research/) for details.
 
 ## News
 `Sept 2024` Coarse-Graining Conformational Dynamics with Multidimensional Generalized Langevin Equation: [How, When, and Why](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00729)
+
 `Apr 2024` &nbsp; Our paper ``Deuteration removes quantum dipolar defects from KDP crystals'' appears on Arxiv! ([link](https://arxiv.org/abs/2404.08125)). State-of-the-art path-integral MD simulation brings new stories of materials that have been intensively studied but never fully understood.
 
 `Mar 2024` &nbsp; Our paper ``Ab Initio generalized Langevin equation'' is published by PNAS ([link](https://www.pnas.org/doi/10.1073/pnas.2308668121)). 
