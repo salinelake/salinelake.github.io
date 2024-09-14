@@ -33,3 +33,10 @@ See [here](/research/) for details.
 `Mar 2024` &nbsp; Our paper ``Ab Initio generalized Langevin equation'' is published by PNAS ([link](https://www.pnas.org/doi/10.1073/pnas.2308668121)). 
 
 `Mar 2024` &nbsp; I give a talk on ab initio generalized langevin equation (AIGLE) in 2024 APS March Meeting at Minneapolis. 
+
+## Open-Source Statement
+I advocate data&code sharing for all research works supported by non-profit grants and funding. I try my best to upload code, data, models, and even post-processing scripts to Github or permanent repos like Zenodo after the conclusion of a project. It is the responsibility of our generation to do so and reduce statements like "** available upon reasonable requests" in publications. 
+
+## Software Development
+[AIGLETools](https://github.com/salinelake/AIGLETools): Python package designed to minimize the effort required to build ab initio generalized Langevin equation (AIGLE) & ab initio Langevin equation (AILE) models for multi-dimensional time series data. 
+
