@@ -4,6 +4,11 @@ permalink: /software/
 published: true
 ---
 
+## OpenFerro
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/468291da-7244-45c1-b5dd-40a91dd57960">
+
+[OpenFerro](https://github.com/salinelake/OpenFerro) is a package written in Python, designed to minimize the effort required to build on-lattice Hamiltonian models, and to perform molecular dynamics (MD) and Landau-Lifshitz-Gilbert simulations.
+
 ## AIGLETools
 
 <img width="428" alt="image" src="https://github.com/user-attachments/assets/ab49084a-1a88-45bb-8ff0-5489b1a4b30b">
